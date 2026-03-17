@@ -1,2 +1,2 @@
 # ChartCord
-#[link](http://localhost:3000/)
+#[View ChatCord](https://chartcord.onrender.com)
